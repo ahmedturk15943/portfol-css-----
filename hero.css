@@ -1,0 +1,33 @@
+#hero {
+  background-color:black;
+  color:rgb(247, 243, 243);
+  margin-top: 3rem;
+}
+h2 {
+  color: azure;
+  margin-top: 0rem;
+  font-size: 1rem;
+  margin-left: 2rem;
+
+}
+h1 {
+  font-size: 3rem;
+  margin-top: 0rem;
+  margin-left: 2rem;
+}
+p {
+  font-size: medium;
+  margin-left: 4rem;
+
+} 
+.hero-image img{
+  /* size: 20rem; */
+  width: 35rem;
+ height: 40rem;
+ margin-top: 3rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 25rem;
+
+}
