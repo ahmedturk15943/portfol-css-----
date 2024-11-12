@@ -8,7 +8,7 @@ import Contact from "./components/Contact";
 
 import React from 'react'
 
-const homePage = () => {
+const HomePage = () => {
   return (
     <div>
       <Navbar />  
@@ -22,6 +22,6 @@ const homePage = () => {
   )
 }
 
-export default homePage
+export default HomePage
 
 
